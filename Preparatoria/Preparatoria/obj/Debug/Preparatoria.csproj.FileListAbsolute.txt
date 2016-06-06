@@ -1,0 +1,20 @@
+c:\users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\bin\Debug\Preparatoria.exe.config
+C:\Users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\bin\Debug\Preparatoria.exe
+C:\Users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\bin\Debug\Preparatoria.pdb
+C:\Users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\obj\Debug\Preparatoria.csprojResolveAssemblyReference.cache
+C:\Users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\obj\Debug\Preparatoria.Form1.resources
+C:\Users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\obj\Debug\Preparatoria.Properties.Resources.resources
+C:\Users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\obj\Debug\Preparatoria.csproj.GenerateResource.Cache
+C:\Users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\obj\Debug\Preparatoria.exe
+C:\Users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\obj\Debug\Preparatoria.pdb
+C:\Users\rosita\documents\visual studio 2015\Projects\Preparatoria\Preparatoria\obj\Debug\Preparatoria.Calificaciones.resources
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\bin\Debug\Preparatoria.exe.config
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\obj\Debug\Preparatoria.exe
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\obj\Debug\Preparatoria.pdb
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\bin\Debug\Preparatoria.exe
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\bin\Debug\Preparatoria.pdb
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\obj\Debug\Preparatoria.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\obj\Debug\Preparatoria.Calificaciones.resources
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\obj\Debug\Preparatoria.Form1.resources
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\obj\Debug\Preparatoria.Properties.Resources.resources
+C:\Users\carlos\Desktop\Preparatoria\Preparatoria\obj\Debug\Preparatoria.csproj.GenerateResource.Cache
